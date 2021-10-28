@@ -1,1 +1,1 @@
-!()[weight_height_titles.png]
+![](weight_height_titles.png)
